@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/campaign-management/static/css/main.4eb1d8c2.chunk.css",
-    "main.js": "/campaign-management/static/js/main.98f29860.chunk.js",
-    "main.js.map": "/campaign-management/static/js/main.98f29860.chunk.js.map",
+    "main.css": "/campaign-management/static/css/main.b1cf070f.chunk.css",
+    "main.js": "/campaign-management/static/js/main.3efe135b.chunk.js",
+    "main.js.map": "/campaign-management/static/js/main.3efe135b.chunk.js.map",
     "runtime-main.js": "/campaign-management/static/js/runtime-main.652c2f1b.js",
     "runtime-main.js.map": "/campaign-management/static/js/runtime-main.652c2f1b.js.map",
     "static/css/2.25ff2e5b.chunk.css": "/campaign-management/static/css/2.25ff2e5b.chunk.css",
-    "static/js/2.00fc90b2.chunk.js": "/campaign-management/static/js/2.00fc90b2.chunk.js",
-    "static/js/2.00fc90b2.chunk.js.map": "/campaign-management/static/js/2.00fc90b2.chunk.js.map",
+    "static/js/2.826066b9.chunk.js": "/campaign-management/static/js/2.826066b9.chunk.js",
+    "static/js/2.826066b9.chunk.js.map": "/campaign-management/static/js/2.826066b9.chunk.js.map",
     "index.html": "/campaign-management/index.html",
-    "precache-manifest.5af52d6fe9953a97ad9e8d358bda6d0e.js": "/campaign-management/precache-manifest.5af52d6fe9953a97ad9e8d358bda6d0e.js",
+    "precache-manifest.f5dd34213cdb0b1c9c5e2f9fa690032a.js": "/campaign-management/precache-manifest.f5dd34213cdb0b1c9c5e2f9fa690032a.js",
     "service-worker.js": "/campaign-management/service-worker.js",
     "static/css/2.25ff2e5b.chunk.css.map": "/campaign-management/static/css/2.25ff2e5b.chunk.css.map",
-    "static/css/main.4eb1d8c2.chunk.css.map": "/campaign-management/static/css/main.4eb1d8c2.chunk.css.map",
-    "static/js/2.00fc90b2.chunk.js.LICENSE.txt": "/campaign-management/static/js/2.00fc90b2.chunk.js.LICENSE.txt",
+    "static/css/main.b1cf070f.chunk.css.map": "/campaign-management/static/css/main.b1cf070f.chunk.css.map",
+    "static/js/2.826066b9.chunk.js.LICENSE.txt": "/campaign-management/static/js/2.826066b9.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/campaign-management/static/media/logo.88184584.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.652c2f1b.js",
     "static/css/2.25ff2e5b.chunk.css",
-    "static/js/2.00fc90b2.chunk.js",
-    "static/css/main.4eb1d8c2.chunk.css",
-    "static/js/main.98f29860.chunk.js"
+    "static/js/2.826066b9.chunk.js",
+    "static/css/main.b1cf070f.chunk.css",
+    "static/js/main.3efe135b.chunk.js"
   ]
 }
